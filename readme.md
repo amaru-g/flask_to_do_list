@@ -11,3 +11,4 @@ asf
 ## References
 - [git bascis](https://www.youtube.com/watch?v=gJv0PcfUXE8&t=1132s)
 - [flask tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+- [html boilerplate](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
