@@ -3,6 +3,8 @@ body{
 
     margin: o;
     font-family: sans-serif ;
+    background-color: lightblue;
+    opacity:0.9;
 
 }
 
@@ -11,8 +13,9 @@ table, th, td {
     border-collapse: collapse;
     width:800px;
     text-align: center;
+}
 
-
-
-
+.todo_list{
+    margin-left: auto;
+    margin-right: auto;
 }
